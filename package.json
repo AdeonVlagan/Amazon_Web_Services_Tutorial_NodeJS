@@ -1,0 +1,22 @@
+{
+  "name": "amazon_web_services_tutorial_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdeonVlagan/Amazon_Web_Services_Tutorial_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdeonVlagan/Amazon_Web_Services_Tutorial_NodeJS/issues"
+  },
+  "homepage": "https://github.com/AdeonVlagan/Amazon_Web_Services_Tutorial_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
